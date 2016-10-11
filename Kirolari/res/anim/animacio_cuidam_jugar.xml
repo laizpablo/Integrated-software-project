@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+	android:oneshot="true">
+	<!-- oneshot true = reproduccio nomes un cop -->
+	<item
+	android:drawable="@drawable/kirolari_jugar"
+	android:duration="200"/>
+	<item
+	android:drawable="@drawable/kirolari_jugar2"
+	android:duration="200"/>
+	 <item
+	android:drawable="@drawable/kirolari_jugar3"
+	android:duration="200"/>
+	<item
+	android:drawable="@drawable/kirolari_jugar4"
+	android:duration="2000"/>
+	<item
+	android:drawable="@drawable/kirolari_jugar3"
+	android:duration="200"/>
+	 <item
+	android:drawable="@drawable/kirolari_jugar2"
+	android:duration="200"/>
+	<item
+	android:drawable="@drawable/kirolari_jugar"
+	android:duration="200"/>
+
+	
+	</animation-list>

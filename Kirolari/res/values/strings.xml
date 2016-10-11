@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KiroLari</string>
+    <string name="action_settings">Configuració</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="acceptar">ACCEPTAR</string>
+    <string name="cancelar">CANCEL·LAR</string>
+    <string name="informacio">Informació</string>
+	<string name="button_iniciar">Iniciar</string>
+    
+    
+    
+    <!-- SETTINGS -->
+    <string name="no_planning">No tens cap Planning iniciat.</string>
+    <string name="unitatsMesura">Unitats de Mesura</string>
+    <string name="sexe">Sexe</string>
+    <string-array name="sexe">
+        <item>HOME</item>
+        <item>DONA</item>
+    </string-array>
+
+    <!-- OPCIONS MENU FRAGMENTS INICIAL -->
+    <string-array name="opcions">
+        <item>Menu Principal</item>
+        <item>Calendari</item>
+        <item>Historial</item>
+        <item>Nou Planning</item>
+        <item>Cuida\'m</item>
+        <item>Amics</item>
+        <item>Esdeveniments</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="opcions_icons">
+        <item>@drawable/ic_menuprincipal</item>
+        <item>@drawable/ic_calendari</item>
+        <item>@drawable/ic_historial</item>
+        <item>@drawable/ic_nouplanning</item>
+        <item>@drawable/ic_cuidam</item>
+        <item>@drawable/ic_amics</item>
+        <item>@drawable/ic_people</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <!-- REGISTRE -->
+    <string name="registre_nom">Nom:   </string>
+    <string name="registre_cognoms">Cognoms:   </string>
+    <string name="registre_dataNaix">Data de naixement:  </string>
+    <string name="registre_alias">Àlies:    </string>
+    <string name="boto_seguent">Següent </string>
+    <string name="registre_email">E-mail:   </string>
+    <string name="registre_password">Contrasenya:  </string>
+    <string name="registre_confirmapwd">Confirma la contrasenya:  </string>
+    <string name="registre_altura">Altura:  </string>
+    <string name="registre_pes">Pes:  </string>
+    <string name="registre_sexe">Sexe:  </string>
+    <string name="registre_metres"> m </string>
+    <string name="registre_kilos"> kg </string>
+    <string name="registre_home"> Home </string>
+    <string name="registre_dona"> Dona </string>
+    <string name="registre_confirmacio"> Comprova si les dades són correctes. </string>
+    <string name="boto_registrarse"> Registrar-se </string>
+    <string name="boto_cancelar"> Cancelar </string>
+    <string name="perque_dades"> Aquestes dades seràn utilitzades per l\'estudi estadístic de la teva evolució esportiva. </string>
+    <string name="registre_nomCanvi"> </string>
+    <string name="registre_cognomsCanvi"> </string>
+    <string name="registre_dataNaixCanvi"></string>
+    <string name="registre_aliasCanvi"> </string>
+    <string name="registre_emailCanvi"></string>
+    <string name="registre_passwordCanvi"> </string>
+    <string name="registre_alturaCanvi"> </string>
+    <string name="registre_pesCanvi"> </string>
+    <string name="registre_sexeCanvi"></string>
+    <string name="verificacioEmail"> Per finalitzar el teu registre rebràs un correu de confirmació a la teva safata d\'entrada. Confirma-ho per continuar.</string>
+    <string name="registre_textData"> DD-MM-AAAA</string>
+
+    
+   
+    
+    <!-- PORTADA. SIGNIN -->
+    <string name="boto_entrar"> Entrar </string>
+    <string name="boto_registrar"> Registrar </string>
+    <string name="text_usuari"> Email </string>
+    <string name="text_contrasenya"> Contrasenya </string>
+    <string name="text_olvidarContrasenya"> Has oblidat la contrasenya? </string>
+    <string name="textDialog_contrasenya"> Vols que t\'enviem un correu per reestablir la teva contrasenya?
+        Indica\'ns quin és el correu del teu compte kirolari.</string>
+    <string name="text_error_internet"> No hi ha connexió a internet, activi el WIFI o les dades.</string>
+    <string name="carregant">Carregant &#8230;</string>
+    
+
+    <!-- NOU PLANNING -->
+    <string name="planning_objectiu"> Objectiu: </string>
+
+    <string-array name="planning_objectius">
+        <item>Pèrdua de Pes</item>
+        <item>Cursa de 10km</item>
+        <item>Mitja Marató</item>
+        <item>Marató</item>
+        <item>Operació Estiu</item>
+    </string-array>
+
+    <string name="planning_diesDisponibles">Dies disponibles a la setmana: </string>
+    <string name="planning_material">Material/Instal·lacions: </string>
+    <string name="planning_checkBox_gimnas">Gimnàs</string>
+    <string name="planning_checkBox_bici">Bicicleta</string>
+    <string name="planning_checkBox_piscina">Piscina</string>
+    <string name="planning_preferencies">Preferències: </string>
+    <string name="planning_checkBox_correr">Córrer</string>
+    <string name="planning_checkBox_ciclisme">Ciclisme</string>
+    <string name="planning_checkBox_natacio">Natació</string>
+    <string name="planning_checkBox_aerobic">Aeròbic</string>
+    <string name="planning_checkBox_fitness">Fitness</string>
+    <string name="planning_checkBox_caminata">Caminata</string>
+    <string name="planning_checkBox_ioga">Ioga</string>
+    <string name="textView_dia">1</string>
+    <string name="button_continuar">Continuar</string>
+    <string name="button_cancela">Cancel·lar</string>
+    <string name="button_guarda">Guardar</string>
+
+    <!-- PANTALLA PRINCIPAL -->
+
+    <string name="MenuPrincipal_noPlanning_text"> No tens cap planning iniciat. </string>
+    <string name="MenuPrincipal_Planning_text">Ja tens un planning iniciat. Fem la sessió d\'avui. </string>
+    <string name="MenuPrincipal_descansPlanning_text"> Avui no tens cap activitat prevista, has de descansar. </string>
+    <string name="MenuPrincipal_fetPlanning_text"> Avui ja has fet l\'activitat prevista.</string>
+    <string name="boto_ContinuarPlanning">Continuar Planning</string>
+    <string name="boto_ActivitatLliure">Activitat Lliure</string>
+    <string name="boto_IntroduirEntrenament">Introduir Entrenament</string>
+    <string name="text_titol_planning">Nom Planning:  </string>
+    <string name="text_error_calendar">El seu dispositiu no suporta aquesta opció del menú.</string>
+    
+
+    <!-- CONTINUAR PLANNING -->
+
+    <string name="ContinuarPlanning_text">L\'activitat ideal per avui és  </string>
+    <string name="Alternatives_text">Alternatives: </string>
+    <string name="boto_Comencar">Començar!</string>
+
+    <string-array name="Alternatives_esports">
+        <item>Córrer</item>
+        <item>Bicicleta</item>
+        <item>Spinning</item>
+        <item>Natació</item>
+        <item>Aeròbic</item>
+        <item>Fitness</item>
+        <item>Caminata</item>
+        <item>Ioga</item>
+    </string-array>
+
+    <!-- ACTIVITAT LLIURE -->
+    <string name="ActivitatLliure_text">Quina activitat vols fer? </string>
+    <string name="DadesActivitat_text">Activitat: </string>
+    <string name="DadesDistancia_text">Distancia: </string>
+    <string name="Distancia_text"> 0,00 Km </string>
+    <string name="DadesDuracio_text">Duració: </string>
+    <string name="Duracio_text">00 min </string>
+    <string name="DadesCalories_text"> Calories: </string>
+    <string name="Calories_text">0 Kcal</string>
+    <string name="boto_GuardarEntrenament">Guardar entrenament</string>
+    <string name="kiroHauraDeDutxarse_text"> En Kiro està suant, hauries de dutxar-lo! Vols fer-ho ara?</string>
+    
+
+    <!-- REALITZAR ACTIVITAT -->
+    <string name="realitzarActivitat_button_iniciar">Iniciar</string>
+    <string name="realitzarActivitat_boto_Acabar">Finalitzar</string>
+    <string name="realitzarActivitat_temps">00:00:00</string>
+    <string name="realitzarActivitat_tempsText">TEMPS</string>
+    <string name="realitzarActivitat_calories">00</string>
+    <string name="realitzarActivitat_caloriesText">CALORIES</string>
+    <string name="realitzarActivitat_distancia">00.00</string>
+    <string name="realitzarActivitat_distanciaText">DISTÀNCIA</string>
+    <string name="RealitzarActivitat_text"> Ja has començat una nova activitat.\n No és gran aquell que mai falla si no el que mai es dóna per vençut.</string>
+    <string name="dades_introduirEntrenament">Introduix alguna dada.</string>
+
+    <!-- HISTORIAL -->
+    <string-array name="historial_spinner_anys">
+        <item>Total</item>
+        <item>2014</item>
+    </string-array>
+
+    <string-array name="historial_spinner_mesos">
+        <item>Anual</item>
+        <item>Gener</item>
+        <item>Febrer</item>
+        <item>Març</item>
+        <item>Abril</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Juliol</item>
+        <item>Agost</item>
+        <item>Septembre</item>
+        <item>Octubre</item>
+        <item>Novembre</item>
+        <item>Desembre</item>
+    </string-array>
+
+    <string name="historial_textView_calories">CALORIES</string>
+    <string name="historial_textView_distancia">DISTÀNCIA</string>
+    <string name="historial_textView_pes">PES</string>
+    <string name="historial_textView_numCalories">0</string>
+    <string name="historial_textView_numDistancia">0</string>
+    <string name="historial_textView_numPes">0</string>
+    <string name="historial_textView_sessions">SESSIONS</string>
+    <string name="historial_textView_temps">TEMPS</string>
+    <string name="historial_textView_numSessions">0</string>
+    <string name="historial_textView_numTemps">0</string>
+    <string name="historial_taula_columnaData">Data</string>
+    <string name="historial_taula_columnaActivitat">\t\t Activitat</string>
+    <string name="historial_taula_columnaDuracio">Duració</string>
+    <string name="historial_taula_data1">15/03/2014</string>
+    <string name="historial_taula_activitat1">Bicicleta</string>
+    <string name="historial_taula_duracio1">01:00:00</string>
+    <string name="historial_taula_data2">20/03/2014</string>
+    <string name="historial_taula_activitat2">Picina</string>
+    <string name="historial_taula_duracio2">00:45:00</string>
+    <string name="historial_button_grafic">Gràfic</string>
+
+    <!-- HISTORIAL/GRAFIC -->
+
+    <string name="historialGrafic_checkBox_historialCalories">Calories</string>
+    <string name="historialGrafic_checkBox_historialActivitats">Activitats</string>
+    <string name="historialGrafic_checkBox_historialDistancia">Distància</string>
+    <string name="historialGrafic_checkBox_historialTemps">Temps</string>
+
+    <!-- EVENTS -->
+    <string name="esdeveniments">Esdeveniments</string>
+    <string name="section_tab_events">Meus</string>
+    <string name="section_tab_crear">Crear</string>
+    <string name="section_tab_buscar">Cercar</string>
+    <string name="events_participants">Participants: </string>
+    <string name="events_esport">Esport: </string>
+    <string name="events_nomEvent">Nom: </string>
+    <string name="events_descripcio">Descripció: </string>
+    <string name="events_data">Data: </string>
+    <string name="events_hora">Hora: </string>
+    <string name="events_boto_crear">Crear Esdeveniment</string>
+    <string name="events_zona">Zona: </string>
+    <string name="boto_mes_desc">Dóna més informacio de l\'esdeveniment</string>
+    <string name="events_boto_veuremapa">Mapa</string>
+    <string name="eventsNotFound">No s\'ha trobat cap Esdeveniment</string>
+    <string name="noEvents">No estàs inscrit a cap Esdeveniment</string>
+    <string name="afegir_esdev"> Estàs segur que vols inscriure\'t en aquest Esdeveniment?</string>
+    <string name="abandonar_esdev"> Estàs segur que vols abandonar aquest Esdeveniment?</string>
+	<string name="afegir_participants"> Afegir\nParticipants</string>
+	<string name="afegir_participants_land"> Afegir Participants</string>
+	<string name="valid_crear_event"> Has afegit un nou Esdeveniment! </string>
+	<string name="error_crear_event"> S\'ha produït un error al crear l\'esdeveniment, intenta-ho més tard.</string>
+	<string name="error_buscar_event"> S\'ha produït un error al buscar Esdeveniments, intenta-ho més tard.</string>
+	<string name="error_abandonar_event"> S\'ha produït un error al abandonar aquest Esdeveniment, intenta-ho més tard.</string>
+    <string name="error_buscar_participants"> S\'ha produït un error al buscar els participants d\'aquest Esdeveniment, intenta-ho més tard.</string>
+	
+    <!-- zones -->
+    <string-array name="barris_bcn">
+        <item>Ciutat Vella</item>
+        <item>Eixample</item>
+        <item>Sants-Montjuïc</item>
+        <item>Les Corts</item>
+        <item>Sarrià-Sant Gervasi</item>
+        <item>Gràcia</item>
+        <item>Horta-Guinardó</item>
+        <item>Nou Barris</item>
+        <item>Sant Andreu</item>
+        <item>Sant Martí</item>
+    </string-array>
+
+    <!-- CUIDAM -->
+    <string name="button_cuidamDutxa">Dutxa</string>
+    <string name="button_cuidamVestir">Vestir</string>
+    <string name="button_cuidamDormir">Dormir</string>
+    <string name="button_cuidamJugar">Jugar</string>
+    <string name="cuidam_descripcioImatge">cuidam descripcio Imatge</string>
+    <string name="title_cuidam">Cuidam</string>
+    
+    
+    
+    <!-- AMICS -->
+    <string name="amics">Amics</string>
+    <string name="afegirAmic">Afegir Amic</string>
+    <string name="buscarAmic">Buscar</string>
+    <string name="aliesOrEmail">Email o Àlies</string>
+	<string name="desc_list_icon">Icono Afegir</string>
+    <string name="usersNotFound">No s\'ha trobat cap usuari</string>
+    <string name="noFriends">No tens cap amic</string>
+    <string name="confirmacio"> Confirmació Requerida!</string>
+    <string name="afegir_amic"> Estàs segur que vols afegir\n aquest usuari com amic?</string>
+    <string name="eliminar_amic"> Estàs segur que vols eliminar aquest usuari dels teus amics?</string>
+    <string name="buscant">Buscant &#8230;</string>
+    
+    <!-- NOTIFICACIONS  -->
+    <string name="title_activity_realitzar_activitat">Realitzar Activitat</string>
+    <string name = "notificacio_entrenament">Kirolari</string>
+    <string name = "notificacio_dia">Recordatori d\'entrenament. \nEl dia </string>
+    <string name = "notificacio_mes">/</string>
+    <string name = "notificacio_activitat">Has de fer l\'activitat prevista pel planning.  </string>
+    <string name = "notificacio_aniversariTitol"> MOLTES FELICITATS! </string>
+    <string name = "notificacio_aniversari"> Gaudeix del teu dia fent esport amb en Kiro! </string>
+    
+    <!-- SESSIONS -->
+    <string name="Sessions"> Sessions </string>
+    
+    <!-- PREFERENCIES -->
+	<string name = "sobre_nosaltres">Aplicació realitzada pel grup PIS 09: Natàlia Conesa, Judit Domènech, Adrián Dueñas i Pablo Laiz.\nAssignatura: Projecte Integrat de Software. </string>
+</resources>

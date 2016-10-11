@@ -1,0 +1,75 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/kirolari_inicial_land"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/signin_layoutTextOblidarPss"
+        android:layout_centerHorizontal="true" >
+
+        <EditText
+            android:id="@id/editText_Contrasenya"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="9"
+            android:hint="@string/text_contrasenya"
+            android:inputType="textPassword" >
+	
+	    </EditText>
+	
+	    <EditText
+	        android:id="@+id/editText_Usuari"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:ems="9"
+	        android:hint="@string/text_usuari"
+	        android:inputType="textEmailAddress" />
+
+    </LinearLayout>
+    
+     <LinearLayout
+        android:id="@+id/signin_layoutTextOblidarPss"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/signin_layoutbuttons"
+        android:layout_centerHorizontal="true" >
+	    
+	    <TextView
+            android:id="@+id/text_olvidarContrasenya"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:text="@string/text_olvidarContrasenya" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/signin_layoutbuttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" >
+
+        <Button
+            android:id="@+id/button_entrar"
+            style="@style/button_text"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_black"
+            android:text="@string/boto_entrar" />
+
+        <Button
+            android:id="@id/button_registrar"
+            style="@style/button_text"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_black"
+            android:text="@string/boto_registrar" />
+    </LinearLayout>
+
+</RelativeLayout>

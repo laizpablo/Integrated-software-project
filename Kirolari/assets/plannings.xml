@@ -1,0 +1,2653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <planning idPlanning="1">
+		<nomPlanning>Planning Perdua de Pes.</nomPlanning>
+		<objectiu>Pla d'entrenament per a persones que desitgen perdre pes.</objectiu>
+		<duracioSetmanes>22</duracioSetmanes>
+		<setmana idSetmana="1">
+			<dia diaSet="1">
+				<activitat>10 x :
+	Córrer a un ritme relaxat 00:01:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>5 x:
+	Córrer a un ritme relaxat 00:01:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:02:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>10 x:
+	Córrer a un ritme relaxat 00:02:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="2">
+			<dia diaSet="2">
+				<activitat>5 x:
+	Córrer a un ritme relaxat 00:03:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>4 x:
+	Córrer a un ritme relaxat 00:03:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:02:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>28</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>5 x:
+	Córrer a un ritme relaxat 00:04:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="3">
+			<dia diaSet="2">
+				<activitat>8 x:
+	Córrer a un ritme relaxat 00:03:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>32</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>5 x:
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>2 x:
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:08:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="4">
+			<dia diaSet="2">
+				<activitat>3 x:
+	Córrer a un ritme relaxat 00:08:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>27</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>28</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>3 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>33</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="5">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:15:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>38</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:20:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>38</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:20:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>32</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="6">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:25:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>38</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:20:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>43</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="7">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:20:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>43</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:25:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>48</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>28</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:35:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>47</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="8">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:25:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>43</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:30:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>48</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>3 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>33</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:15:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:35:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>52</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="9">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:05:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:30:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>48</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:25:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>48</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:01:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:15:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>29</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:15:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:40:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>57</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="10">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:20:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:15:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>48</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:35:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>58</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:45:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>57</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="11">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:25:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>48</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:30:00,
+	Camina 00:01:00,
+	Córrer a un ritme relaxat 00:10:00,
+	Camina 00:01:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. Tria un ritme lent quan corris amb el lema: "Córrer sense panteixar", per als intervals de caminada el millor és completar-los amb passos ràpids.</descripcioActivitat>
+				<duracio>53</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="12">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:25:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:35:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>35</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="13">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="14">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:35:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>35</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:55:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>55</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="15">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:35:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>35</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="16">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:25:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="17">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:45:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>45</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:25:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="18">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="19">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>25</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="20">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="21">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:45:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>45</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 01:10:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>70</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="22">
+			<dia diaSet="1">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="2">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:45:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>45</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Córrer a un ritme relaxat 01:10:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>70</duracio>
+			</dia>
+		</setmana>
+	</planning>
+	<planning idPlanning="2">
+		<nomPlanning>Planning 10km.</nomPlanning>
+		<objectiu>Pla d'entrenament per als corredors que volen completar una carrera de 10 quilòmetres en 50 minuts.</objectiu>
+		<duracioSetmanes>16</duracioSetmanes>
+		<setmana idSetmana="1">
+			<dia diaSet="1">
+				<activitat>1 x:
+	A poc a poc 00:40:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Mitjà 00:40:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:00:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="2">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:50:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	A poc a poc 01:00:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="3">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Mitjà 00:40:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	7 x: ràpid 00:03:00,
+	Ritme
+	min.: 05:10 min/km
+	max.: 04:10 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>82</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:00:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="4">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 01:00:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	Mitjà 00:60:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="5">
+			<dia diaSet="2">
+				<activitat>1 x:
+	Mitjà 00:40:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	5 x: ràpid 00:05:00,
+	Ritme
+	min.: 05:10 min/km
+	max.: 04:10 min/km,
+	Pausa activa 00:05:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:00:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="6">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:40:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	1 x: ràpid 00:40:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:10 min/km.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>En la cursa de temps corres més ràpid que el "sentir-se bé amb el ritme". No obstant això, has de tenir la impressió de que pots mantenir aquest ritme durant un llarg temps - molt temps. La teva respiració és forta, però regular. Quan corres una carrera de temps, no ha de sentir-se com en una competició, només com un repte per al teu cos!</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="7">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:40:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	7 x: ràpid 00:03:00,
+	Ritme
+	min.: 05:10 min/km
+	max.: 04:10 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>82</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="8">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: 
+	Mitjà 01:00:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:00:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="9">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:50:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	1 x: ràpid 00:40:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:10 min/km.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>En la cursa de temps corres més ràpid que el "sentir-se bé amb el ritme". No obstant això, has de tenir la impressió de que pots mantenir aquest ritme durant un llarg temps - molt temps. La teva respiració és forta, però regular. Quan corres una carrera de temps, no ha de sentir-se com en una competició, només com un repte per al teu cos!</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="10">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:50:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	A poc a poc 01:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="11">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:50:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	15 x: ràpid 00:01:00,
+	Ritme
+	min.: 05:10 min/km
+	max.: 04:10 min/km,
+	Pausa activa 00:01:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>70</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:20:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="12">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	A poc a poc 00:40:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>3 x: 
+	Race Simulation Distance 00:09:45 2 km,
+	Ritme
+	min.: 05:00 min/km
+	max.: 04:50 min/km,
+	Pausa activa 00:03:00</activitat>
+				<descripcioActivitat>No importa on, si es tracta d'una carrera de la ciutat, una carrera pública o una pista coneguda corrent en el bosc, has d'intentar un ritme alt. No obstant això, només corre tan ràpid com el teu estat fésic et permeti. és una prova, Córrer a un ritme ràpid durant molt temps aguanta fins al final! Per tant, també és una bona prova per al teu sentit del ritme. és millor Córrer una mica més fort basant-se en el resultat de la prova, i això puguis extrapolar el ritme de la propera mitja marató / marató.</descripcioActivitat>
+				<duracio>35</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="13">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: 
+	Mitjà 01:00:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 01:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="14">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:50:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	5 x: ràpid 00:05:00,
+	Ritme
+	min.: 05:10 min/km
+	max.: 04:10 min/km,
+	Pausa activa 00:05:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="15">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	10 x: ràpid 00:02:00,
+	Ritme
+	min.: 05:10 min/km
+	max.: 04:10 min/km,
+	Pausa activa 00:02:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="16">
+			<dia diaSet="2">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x:
+	A poc a poc 00:30:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x:
+	A poc a poc 00:20:00,
+	Ritme
+	min.: 06:20 min/km
+	max.: 05:40 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x:
+	Carrera 00:50:00 10 km,
+	Ritme
+	min.: 05:00 min/km
+	max.: 04:50 min/km</activitat>
+				<descripcioActivitat>Ha arribat el moment. La carrera ja està aquí. Escalfa com de costum, amb temps suficient per estar primerenc en la linia de sortida. Comença controlant conscientment la carrera, després tracta de ser constant i mantenir-te en el ritme mitjana. No hi ha problema si la carrera és 1-2 dies abans o després. Les últimes sessions s'utilitzen per a la regeneració, i pots anar relaxat i segur a la linia de sortida. Bona sort!</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+		</setmana>
+	</planning>
+	<planning idPlanning="3">
+		<nomPlanning>Planning Mitja Marato.</nomPlanning>
+		<objectiu>Pla d'entrenament per als corredors que volen completar una mitja marató en 2h 00min.</objectiu>
+		<duracioSetmanes>16</duracioSetmanes>
+		<setmana idSetmana="1">
+			<dia diaSet="1">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Mitjà 01:00:00,
+	Ritme
+	min.: 06:10 min/km
+	max.: 05:50 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Despacio 01:30:00,
+	Ritmo
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="2">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	6 x: ràpid 00:03:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:00 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>76</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Despacio 01:30:00,
+	Ritmo
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="3">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Race Simulation Distance 10 km,
+	Ritme
+	min.: 05:42 min/km
+	max.: 05:32 min/km</activitat>
+				<descripcioActivitat>No importa on, si es tracta d'una carrera de la ciutat, una carrera pública o una pista coneguda corrent en el bosc, has d'intentar un ritme alt. No obstant això, només corre tan ràpid com el teu estat fésic et permeti. és una prova, Córrer a un ritme ràpid durant molt temps aguanta fins al final! Per tant, també és una bona prova per al teu sentit del ritme. és millor Córrer una mica més fort basant-se en el resultat de la prova, i això puguis extrapolar el ritme de la propera mitja marató / marató.</descripcioActivitat>
+				<duracio>55</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="4">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Mitjà 00:50:00,
+	Ritme
+	min.: 06:10 min/km
+	max.: 05:50 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="5">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	6 x: ràpid 00:03:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:00 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>76</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Despacio 01:30:00,
+	Ritmo
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="6">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	1 x: ràpid 00:50:00,
+	Ritme
+	min.: 05:50 min/km
+	max.: 05:40 min/km.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>A la cursa de temps corres més ràpid que el "sentir-se bé amb el ritme". No obstant això, has de tenir la impressió de que pots mantenir aquest ritme durant un llarg temps - molt temps. La teva respiració és forta, però regular. Quan corres una carrera de temps, no ha de sentir-se com en una competició, només com un repte per al teu cos!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="7">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:50:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	8 x: ràpid 00:03:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:00 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>88</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="8">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Mitjà 00:50:00,
+	Ritme
+	min.: 06:10 min/km
+	max.: 05:50 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:20:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="9">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	5 x: ràpid 00:05:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:00 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="10">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:50:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	1 x: ràpid 00:50:00,
+	Ritme
+	min.: 05:50 min/km
+	max.: 05:40 min/km.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>A la cursa de temps corres més ràpid que el "sentir-se bé amb el ritme". No obstant això, has de tenir la impressió de que pots mantenir aquest ritme durant un llarg temps - molt temps. La teva respiració és forta, però regular. Quan corres una carrera de temps, no ha de sentir-se com en una competició, només com un repte per al teu cos!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="11">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	15 x: ràpid 00:01:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:00 min/km,
+	Pausa activa 00:01:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>70</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="12">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Race Simulation Distance 10 km,
+	Ritme
+	min.: 05:42 min/km
+	max.: 05:32 min/km</activitat>
+				<descripcioActivitat>No importa on, si es tracta d'una carrera de la ciutat, una carrera pública o una pista coneguda corrent en el bosc, has d'intentar un ritme alt. No obstant això, només corre tan ràpid com el teu estat fésic et permeti. és una prova, Córrer a un ritme ràpid durant molt temps aguanta fins al final! Per tant, també és una bona prova per al teu sentit del ritme. és millor Córrer una mica més fort basant-se en el resultat de la prova, i això puguis extrapolar el ritme de la propera mitja marató / marató.</descripcioActivitat>
+				<duracio>55</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="13">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Mitjà 01:00:00,
+	Ritme
+	min.: 06:10 min/km
+	max.: 05:50 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 01:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="14">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:50:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	1 x: ràpid 00:50:00,
+	Ritme
+	min.: 05:50 min/km
+	max.: 05:40 min/km.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>A la cursa de temps corres més ràpid que el "sentir-se bé amb el ritme". No obstant això, has de tenir la impressió de que pots mantenir aquest ritme durant un llarg temps - molt temps. La teva respiració és forta, però regular. Quan corres una carrera de temps, no ha de sentir-se com en una competició, només com un repte per al teu cos!</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 01:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="15">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	8 x: ràpid 00:03:00,
+	Ritme
+	min.: 05:40 min/km
+	max.: 05:00 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>88</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:00:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="16">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 00:20:00,
+	Ritme
+	min.: 06:50 min/km
+	max.: 06:10 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Carrera 02:00:00 21.1 km,
+	Ritme
+	min.: 05:42 min/km
+	max.: 05:32 min/km</activitat>
+				<descripcioActivitat>Ha arribat el moment. La carrera ja està aquí. Escalfa com de costum, amb temps suficient per estar primerenc en la linia de sortida. Comença controlant conscientment la carrera, després tracta de ser constant i mantenir-te en el ritme mitjana. No hi ha problema si la carrera és 1-2 dies abans o després. Les últimes sessions s'utilitzen per a la regeneració, i pots anar relaxat i segur a la linia de sortida. Bona sort!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+	</planning>
+	<planning idPlanning="4">
+		<nomPlanning>Planning Marato.</nomPlanning>
+		<objectiu>Pla d'entrenament per als corredors que volen completar una marató.</objectiu>
+		<duracioSetmanes>16</duracioSetmanes>
+		<setmana idSetmana="1">
+			<dia diaSet="1">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="2">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:00:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="3">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="4">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:00:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>120</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="5">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:30:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>150</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="6">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="7">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	10 x: ràpid 00:02:00,
+	Pausa activa 00:02:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:30:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>150</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="8">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 03:00:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>180</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="9">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	4 x: ràpid 00:05:00,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>72</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="10">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 02:40:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>160</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="11">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	2 x: ràpid 00:10:00,
+	Pausa activa 00:04:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>68</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 03:00:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>180</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="12">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>90</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="13">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	5 x: ràpid 00:05:00,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="14">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:40:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 03:00:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>180</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 04:00:00</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>240</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="15">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:50:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: Escalfament 00:20:00.
+	10 x: ràpid 00:02:00,
+	Pausa activa 00:02:00.
+	1 x: Refreda 00:20:00</activitat>
+				<descripcioActivitat>L'entrenament per intervals és jugar amb el ritme. Les seccions de Córrer ràpid són molt més ràpides que les de la carrera de temps, els intervals lents són més relaxats. Un entrenament per intervals és la preparació perfecta per a una carrera de 10 quilometres o una mitja marató. Assegura't que adaptes les seccions ràpides a la durada, el ritme més ràpid és Córrer en un interval d'1 minut - però no de sprint - Com més gran sigui l'interval de carrera és més lent el ritme.</descripcioActivitat>
+				<duracio>80</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:00:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="16">
+			<dia diaSet="3">
+				<activitat>1 x: A poc a poc 00:30:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="5">
+				<activitat>1 x: A poc a poc 00:20:00</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>20</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Carrera 42.2 km</activitat>
+				<descripcioActivitat>Ha arribat el moment. La carrera ja està aquí. Escalfa com de costum, amb temps suficient per estar primerenc en la linia de sortida. Comença controlant conscientment la carrera, després tracta de ser constant i mantenir-te en el ritme mitjana. No hi ha problema si la carrera és 1-2 dies abans o després. Les últimes sessions s'utilitzen per a la regeneració, i pots anar relaxat i segur a la linia de sortida. Bona sort!</descripcioActivitat>
+				<duracio>360</duracio>
+			</dia>
+		</setmana>
+	</planning>
+	<planning idPlanning="5">
+		<nomPlanning>Planning Cos 10.</nomPlanning>
+		<objectiu>Pla d'entrenament per a persones esportistes que busquen el cos ideal.</objectiu>
+		<duracioSetmanes>12</duracioSetmanes>
+		<setmana idSetmana="1">
+			<dia diaSet="1">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="5">
+				<activitat>1 x: Mitjà 00:50:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="2">
+			<dia diaSet="1">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x: Escalfament 00:10:00.
+	6 x: ràpid 00:03:00,
+	Ritme
+	min.: 04:50 min/km
+	max.: 04:00 min/km,
+	Pausa activa 00:02:00.
+	1 x: Refreda 00:10:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. La varietat i canvis freqüents i sobtats ajudaran al teu cos a cremar greix.</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: Mitjà 00:30:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="3">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="5">
+				<activitat>1 x: Mitjà 01:00:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="4">
+			<dia diaSet="2">
+				<activitat>1 x: Escalfament 00:10:00.
+	5 x: ràpid 00:05:00,
+	Ritme
+	min.: 04:50 min/km
+	max.: 04:00 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:10:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. La varietat i canvis freqüents i sobtats ajudaran al teu cos a cremar greix.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="5">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Mitjà 00:30:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="5">
+			<dia diaSet="3">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="5">
+				<activitat>1 x: Escalfament 00:10:00.
+	1 x: ràpid 00:40:00,
+	Ritme
+	min.: 05:00 min/km
+	max.: 04:45 min/k.
+	1 x: Refreda 00:10:00</activitat>
+				<descripcioActivitat>En la cursa de temps corres més ràpid que el "sentir-se bé amb el ritme". No obstant això, has de tenir la impressió de que pots mantenir aquest ritme durant un llarg temps - molt temps. La teva respiració és forta, però regular. Quan corres una carrera de temps, no ha de sentir-se com en una competició, només com un repte per al teu cos!</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 01:00:00,
+	Ritme
+	min.: 06:15 min/km
+	max.: 05:25 min/km</activitat>
+				<descripcioActivitat>La prova de llarga distància se centra en la longitud, no en el ritme. Comença corrent a poc a poc. Per descomptat, pots augmentar lleugerament el ritme en l'últim terç de la carrera de llarga durada fins a aconseguir un ritme "Mitjà". però no al ritme de la carrera de temps! Lent i constant!</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="6">
+			<dia diaSet="2">
+				<activitat>1 x: Mitjà 00:40:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x: Escalfament 00:15:00.
+	5 x: ràpid 00:03:00,
+	Ritme
+	min.: 04:50 min/km
+	max.: 04:00 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:15:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. La varietat i canvis freqüents i sobtats ajudaran al teu cos a cremar greix.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="7">
+			<dia diaSet="2">
+				<activitat>1 x: Mitjà 00:50:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="5">
+				<activitat>1 x: Escalfament 00:10:00.
+	1 x: ràpid 00:40:00,
+	Ritme
+	min.: 05:00 min/km
+	max.: 04:45 min/k.
+	1 x: Refreda 00:10:00</activitat>
+				<descripcioActivitat>En la cursa de temps corres més ràpid que el "sentir-se bé amb el ritme". No obstant això, has de tenir la impressió de que pots mantenir aquest ritme durant un llarg temps - molt temps. La teva respiració és forta, però regular. Quan corres una carrera de temps, no ha de sentir-se com en una competició, només com un repte per al teu cos!</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 00:40:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="8">
+			<dia diaSet="2">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x: Mitjà 00:30:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+			<dia diaSet="6">
+				<activitat>1 x: A poc a poc 01:00:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="9">
+			<dia diaSet="2">
+				<activitat>1 x: Escalfament 00:10:00.
+	4 x: ràpid 00:05:00,
+	Ritme
+	min.: 04:50 min/km
+	max.: 04:00 min/km,
+	Pausa activa 00:03:00.
+	1 x: Refreda 00:10:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. La varietat i canvis freqüents i sobtats ajudaran al teu cos a cremar greix.</descripcioActivitat>
+				<duracio>52</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: A poc a poc 00:30:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>30</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="10">
+			<dia diaSet="2">
+				<activitat>1 x: Mitjà 00:50:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x: A poc a poc 00:50:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="5">
+				<activitat>1 x: Escalfament 00:10:00.
+	8 x: ràpid 00:03:00,
+	Ritme
+	min.: 04:50 min/km
+	max.: 04:00 min/km,
+	Pausa activa 00:02:00.
+	1 x: Refreda 00:10:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. La varietat i canvis freqüents i sobtats ajudaran al teu cos a cremar greix.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="11">
+			<dia diaSet="1">
+				<activitat>1 x: Mitjà 00:40:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+			<dia diaSet="3">
+				<activitat>1 x: A poc a poc 00:50:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+			<dia diaSet="5">
+				<activitat>1 x: Escalfament 00:10:00.
+	15 x: ràpid 00:01:00,
+	Ritme
+	min.: 04:50 min/km
+	max.: 04:00 min/km,
+	A poc a poc 00:01:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km.
+	1 x: Refreda 00:10:00</activitat>
+				<descripcioActivitat>Varia el teu moviment d'acord amb la caminada i les seccions de la carrera. La varietat i canvis freqüents i sobtats ajudaran al teu cos a cremar greix.</descripcioActivitat>
+				<duracio>50</duracio>
+			</dia>
+		</setmana>
+		<setmana idSetmana="12">
+			<dia diaSet="1">
+				<activitat>1 x: Escalfament 00:10:00.
+	1 x: ràpid 00:50:00,
+	Ritme
+	min.: 05:00 min/km
+	max.: 04:45 min/km.
+	1 x: Refreda 00:10:00</activitat>
+				<descripcioActivitat>En la cursa de temps corres més ràpid que el "sentir-se bé amb el ritme". No obstant això, has de tenir la impressió de que pots mantenir aquest ritme durant un llarg temps - molt temps. La teva respiració és forta, però regular. Quan corres una carrera de temps, no ha de sentir-se com en una competició, només com un repte per al teu cos!</descripcioActivitat>
+				<duracio>70</duracio>
+			</dia>
+			<dia diaSet="4">
+				<activitat>1 x: A poc a poc 01:00:00,
+	Ritme
+	min.: 06:00 min/km
+	max.: 05:20 min/km</activitat>
+				<descripcioActivitat>En aquests dies corre a un ritme en el qual encara et "sentis bé amb el ritme." No estés corrent a poc a poc, però t'asseguis bé. Fins i tot a aquest ritme, no perds l'alé. Pots conversar amb el teu company de carrera sense problemes.</descripcioActivitat>
+				<duracio>60</duracio>
+			</dia>
+			<dia diaSet="7">
+				<activitat>1 x: Mitjà 00:40:00,
+	Ritme
+	min.: 05:20 min/km
+	max.: 05:00 min/km</activitat>
+				<descripcioActivitat>Aquest ha de ser un ritme de carrera en el qual et sentis còmode/a en qualsevol moment. No perdis l'alé. Corre a poc a poc, de manera que sempre tinguis la sensació de que pots "realment Córrer molt més ràpid".</descripcioActivitat>
+				<duracio>40</duracio>
+			</dia>
+		</setmana>
+	</planning>

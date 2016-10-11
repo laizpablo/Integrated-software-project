@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#F7FFB4"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+        
+        <Spinner
+            android:id="@+id/historial_spinner_anys"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:entries="@array/historial_spinner_anys" />
+	
+		<Spinner
+			android:id="@+id/historial_spinner_mesos"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="1"
+		    android:gravity="center"
+		    android:entries="@array/historial_spinner_mesos" />
+    </LinearLayout>
+
+
+    
+	<LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:weightSum="4" >
+
+        <TextView
+            android:id="@+id/historial_textView_numCalories"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/historial_textView_numCalories" />
+
+        <TextView
+            android:id="@+id/historial_textView_numDistancia"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="@string/historial_textView_numDistancia" />
+
+        <TextView
+            android:id="@+id/historial_textView_numPes"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/historial_textView_numPes" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="4" >
+
+        <TextView
+            android:id="@+id/historial_textView_calories"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/historial_textView_calories" />
+
+        <TextView
+            android:id="@+id/historial_textView_distancia"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="@string/historial_textView_distancia" />
+
+        <TextView
+            android:id="@+id/historial_textView_pes"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/historial_textView_pes" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+        <TextView
+            android:id="@+id/historial_textView_numSessions"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/historial_textView_numSessions" />
+
+        <TextView
+            android:id="@+id/historial_textView_numTemps"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/historial_textView_numTemps" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+        <TextView
+            android:id="@+id/historial_textView_sessions"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/historial_textView_sessions" />
+
+        <TextView
+            android:id="@+id/historial_textView_temps"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/historial_textView_temps" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/historial_button_grafic"
+        style="@style/button_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_black"
+        android:text="@string/historial_button_grafic" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="370dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TableLayout
+            android:id="@+id/historial_taula_historial"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="1" >
+
+            <TableRow
+                android:id="@+id/historial_taula_cabecera"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/historial_taula_columnaData"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/historial_taula_columnaData"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/historial_taula_columnaActivitat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/historial_taula_columnaActivitat"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/historial_taula_columnaDuracio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/historial_taula_columnaDuracio"
+                    android:textSize="20sp" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/historial_taula_lineaSuperior"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <FrameLayout
+                    android:id="@+id/historial_lineaSuperior"
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:layout_span="6"
+                    android:background="#000000" >
+                </FrameLayout>
+            </TableRow>
+
+            <ListView
+	            android:id="@+id/list_activitats"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent" />
+            
+            <TableRow
+                android:id="@+id/historial_taula_lineaInferior"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+ 
+
+</LinearLayout>

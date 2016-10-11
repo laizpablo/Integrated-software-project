@@ -1,0 +1,78 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    
+   <PreferenceScreen
+        android:key="opcions"
+        android:title="Opcions Generals" >
+        
+        <CheckBoxPreference
+			android:key="notificacions"
+			android:title="Notificacions" />
+        
+        <Preference
+            android:key="reset"
+            android:title="Eliminar Planning" />
+        
+        <Preference
+            android:key="sessions"
+            android:title="Veure Sessions Plannings" />
+        
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="perfil"
+        android:title="Perfil" >
+        
+        <EditTextPreference
+            android:dialogTitle="Nom"
+            android:key="nom"
+            android:title="Nom" />
+        
+        <EditTextPreference
+            android:dialogTitle="Cognoms"
+            android:key="cognom"
+            android:title="Cognoms" />
+        
+        <EditTextPreference
+            android:dialogTitle="Àlies"
+            android:key="alies"
+            android:title="Àlies" />
+        
+        <EditTextPreference
+            android:dialogTitle="Email"
+            android:key="email"
+            android:title="Email" />
+        
+        <EditTextPreference
+            android:dialogTitle="Alçada"
+            android:key="alcada"
+            android:title="Alçada" />
+        
+        <EditTextPreference
+            android:dialogTitle="Pes"
+            android:key="pes"
+            android:title="Pes" />
+	        
+		<ListPreference
+            android:key="sexe"
+            android:title="@string/sexe"
+            android:dialogTitle="@string/sexe"
+            android:entries="@array/sexe"
+            android:entryValues="@array/sexe" />
+        
+	</PreferenceScreen>
+	
+    <PreferenceScreen
+        android:key="help"
+        android:title="Sobre nosaltres" >
+        
+	</PreferenceScreen>
+	
+    <PreferenceScreen
+        android:key="logout"
+        android:title="Tancar Sessió" >
+    	
+	</PreferenceScreen>
+    
+	
+</PreferenceScreen>

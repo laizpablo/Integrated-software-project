@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#F7FFB4" >
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/linearLayout1"
+        android:src="@drawable/kirolari_menuprincipal"
+        android:contentDescription="@string/cuidam_descripcioImatge" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" >
+
+        <LinearLayout
+            android:layout_width="246dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/TextView_titol_planning"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textStyle="normal|bold" />
+
+            <TextView
+                android:id="@+id/TextView_MenuPrincipal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|right"
+                android:text="@string/MenuPrincipal_noPlanning_text"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" >
+
+        <Button
+            android:id="@+id/button_IntroduirEntrenament"
+            style="@style/button_text"
+            android:layout_width="140dp"
+            android:layout_height="70dp"
+            android:background="@drawable/button_black"
+            android:text="@string/boto_IntroduirEntrenament" />
+
+        <Button
+            android:id="@+id/button_ActivitatLliure"
+            style="@style/button_text"
+            android:layout_width="140dp"
+            android:layout_height="70dp"
+            android:background="@drawable/button_black"
+            android:text="@string/boto_ActivitatLliure" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_ContinuarPlanning"
+        style="@style/button_text"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_alignRight="@+id/scrollView1"
+        android:layout_below="@+id/scrollView1"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/button_black"
+        android:text="@string/boto_ContinuarPlanning"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</RelativeLayout>

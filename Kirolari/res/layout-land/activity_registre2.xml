@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="#F7FFB4">
+  
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="#F7FFB4"
+	    android:orientation="vertical"
+	    android:paddingLeft="16dp"
+	    android:paddingRight="16dp" >
+	
+	     <LinearLayout
+	         android:layout_width="match_parent"
+	         android:layout_height="wrap_content"
+	         android:layout_marginLeft="5dp"
+	         android:layout_marginTop="20dp" >
+	
+	       <TextView
+	            android:id="@+id/textView1"
+	            android:layout_width="160dp"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_nom"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	       
+	       <EditText
+	           android:id="@+id/registre2_editText_nom"
+	           android:layout_width="match_parent"
+	           android:layout_height="wrap_content"
+	           android:ems="10"
+	           android:inputType="textPersonName" >
+	
+	        </EditText>
+	    </LinearLayout>
+	
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView2"
+	            android:layout_width="160dp"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_cognoms"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	
+	        <EditText
+	            android:id="@+id/registre2_editText_cognoms"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginRight="20dp"
+	            android:ems="10"
+	            android:inputType="textPersonName" />
+	    </LinearLayout>
+	    
+	     <LinearLayout
+	         android:layout_width="match_parent"
+	         android:layout_height="wrap_content"
+	         android:layout_marginLeft="5dp"
+	         android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView4"
+	            android:layout_width="160dp"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_alias"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	        <EditText
+	            android:id="@+id/registre2_editText_alies"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:ems="10"
+	            android:inputType="textPersonName" />
+	
+	    </LinearLayout>
+	 
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginTop="10dp"
+	        android:orientation="horizontal" >
+	
+	        <TextView
+	            android:id="@+id/textView3"
+	            android:layout_width="160dp"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_dataNaix"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	
+	        <TextView
+	            android:id="@+id/registre2_textData"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_textData"
+	            android:textSize="20sp" />
+	
+	         <ImageButton
+	             android:id="@+id/registre2_canviData"
+	             style="?android:attr/buttonBarButtonStyle"
+	             android:layout_width="wrap_content"
+	             android:layout_height="wrap_content"
+	             android:contentDescription="@string/button_cuidamDutxa"
+	             android:src="@drawable/ic_calendari" />
+	
+	    </LinearLayout>
+	    
+	
+	    
+	    <LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginTop="10dp"
+	        android:layout_gravity="right" >
+	
+	        <Button
+		        android:id="@+id/registre2_button_seguent"
+		        android:background="@drawable/button_black"
+		        style="@style/button_text"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="right"
+		        android:layout_marginLeft="150dp"
+		        android:layout_marginRight="25dp"
+		        android:layout_marginTop="30dp"
+		        android:text="@string/boto_seguent" />
+	
+	    </LinearLayout>
+	
+	</LinearLayout>
+</ScrollView>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="#F7FFB4">
+  
+    <LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:background="#F7FFB4"
+	    android:orientation="vertical" >
+	
+	    <TableRow
+	        android:id="@+id/tableRow1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginTop="20dp" >
+	
+	        <TextView
+	            android:id="@+id/textView1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_confirmacio"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	       
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView2"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_email"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	         <TextView
+	            android:id="@+id/registre4_textCanviEmail"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_emailCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	    </TableRow>
+	    
+	    <TableRow
+	        android:id="@+id/tableRow3"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView10"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_password"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        <TextView
+	            android:id="@+id/registre4_textCanviPassword"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_passwordCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow4"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView3"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_nom"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        <TextView
+	            android:id="@+id/registre4_textCanviNom"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_nomCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow5"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView4"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_cognoms"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        <TextView
+	            android:id="@+id/registre4_textCanviCognoms"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_cognomsCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow6"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView5"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_alias"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	        <TextView
+	            android:id="@+id/registre4_textCanviAlias"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_aliasCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow7"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView6"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_dataNaix"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	        <TextView
+	            android:id="@+id/registre4_textCanviDataNaix"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_dataNaixCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	        
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow8"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView7"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_altura"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	        <TextView
+	            android:id="@+id/registre4_textCanviAltura"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_alturaCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow9"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView8"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_pes"
+	            android:textStyle="normal|bold"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	        <TextView
+	            android:id="@+id/registre4_textCanviPes"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_pesCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	         
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow10"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginTop="10dp" >
+	
+	        <TextView
+	            android:id="@+id/textView9"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textStyle="normal|bold"
+	            android:text="@string/registre_sexe"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	        <TextView
+	            android:id="@+id/registre4_textCanviSexe"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/registre_sexeCanvi"
+	            android:textAppearance="?android:attr/textAppearanceMedium" />
+	        
+	    </TableRow>
+	
+	    <LinearLayout
+	        android:id="@+id/tableRow11"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="50dp"
+	        android:gravity="center_horizontal"
+	        android:weightSum="2" >
+	
+	        <Button
+	            android:id="@+id/registre4_button_cancelar"
+	            android:background="@drawable/button_black"
+	        	style="@style/button_text"
+	            android:layout_width="135dp"
+	            android:layout_weight="1"
+	            android:layout_height="wrap_content"
+	            android:text="@string/boto_cancelar" />
+	
+	        <Button
+	            android:id="@+id/registre4_button_registrarse"
+	            style="@style/button_text"
+	            android:layout_width="135dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:background="@drawable/button_black"
+	            android:text="@string/boto_registrarse" />
+	
+	    </LinearLayout>
+	
+	</LinearLayout>
+  
+
+</ScrollView>

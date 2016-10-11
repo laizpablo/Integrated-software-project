@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7FFB4"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+			
+        <RadioGroup
+            android1:id="@+id/radioGroupHistGrafic"
+            android1:layout_width="88dp"
+            android1:layout_height="wrap_content"
+            android1:layout_weight="1.40" >
+
+            <RadioButton
+                android1:id="@+id/historialGrafic_radioButton_historialCalories"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:checked="true"
+                android1:text="@string/historialGrafic_checkBox_historialCalories" />
+            
+            <RadioButton
+                android1:id="@+id/historialGrafic_radioButton_historialDistancia"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:text="@string/historialGrafic_checkBox_historialDistancia" />
+
+            <RadioButton
+                android1:id="@+id/historialGrafic_radioButton_historialTemps"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:text="@string/historialGrafic_checkBox_historialTemps" />
+            
+            
+        </RadioGroup>
+
+        <LinearLayout
+            android1:id="@+id/graph1"
+            android1:layout_width="471dp"
+            android1:layout_height="match_parent"
+            android1:layout_marginBottom="5dp"
+            android1:layout_marginLeft="15dp"
+            android1:background="#F7BE81"
+            android1:orientation="vertical" >
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

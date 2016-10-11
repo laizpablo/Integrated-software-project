@@ -1,0 +1,5 @@
+# Stop tracking bin/
+bin/
+
+# Stop tracking gen/
+gen/

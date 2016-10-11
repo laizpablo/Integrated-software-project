@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7FFB4"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+       <!--  <CheckBox
+            android:id="@+id/historialGrafic_checkBox_historialCalories"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/historialGrafic_checkBox_historialCalories" />
+			-->
+			
+        <RadioGroup
+            android1:id="@+id/radioGroupHistGrafic"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_weight="1" >
+
+            <RadioButton
+                android1:id="@+id/historialGrafic_radioButton_historialCalories"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:checked="true"
+                android1:text="@string/historialGrafic_checkBox_historialCalories" />
+
+            <RadioButton
+                android1:id="@+id/historialGrafic_radioButton_historialDistancia"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:text="@string/historialGrafic_checkBox_historialDistancia" />
+
+            <RadioButton
+                android1:id="@+id/historialGrafic_radioButton_historialTemps"
+                android1:layout_width="wrap_content"
+                android1:layout_height="wrap_content"
+                android1:text="@string/historialGrafic_checkBox_historialTemps" />
+            
+            
+        </RadioGroup>
+<!--  
+        <CheckBox
+            android:id="@+id/historialGrafic_checkBox_historialActivitats"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/historialGrafic_checkBox_historialActivitats" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+        <CheckBox
+            android:id="@+id/historialGrafic_checkBox_historialDistancia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.80"
+            android:text="@string/historialGrafic_checkBox_historialDistancia" />
+
+        <CheckBox
+            android:id="@+id/historialGrafic_checkBox_historialTemps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.20"
+            android:text="@string/historialGrafic_checkBox_historialTemps" />
+            -->
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/graph1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android1:layout_marginBottom="5dp"
+        android1:layout_marginLeft="5dp"
+        android1:layout_marginRight="5dp"
+        android:background="#F7BE81"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+</LinearLayout>

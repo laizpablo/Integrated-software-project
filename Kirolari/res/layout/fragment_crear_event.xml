@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7ffb4"
+    android:orientation="vertical" >
+
+	<TableRow
+        android:id="@+id/nom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp" >
+
+        <TextView
+            android:id="@+id/text_nom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/events_nomEvent" />
+
+        <EditText
+            android:id="@+id/editText_nomCrearEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:layout_marginLeft="30dp"
+            android:inputType="textPersonName" />
+
+    </TableRow>
+    
+    <TableRow
+        android:id="@+id/descripcio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp" >
+
+        <TextView
+            android:id="@+id/text_descripcio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/events_descripcio" />
+
+        <EditText
+            android:id="@+id/editText_descripcioCrearEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:layout_marginLeft="15dp"
+            android:maxLines="3"
+            android:inputType="textMultiLine" />
+
+    </TableRow>
+    
+    <TableRow
+        android:id="@+id/data"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:id="@+id/text_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/events_data" />
+
+        <EditText
+            android:id="@+id/editText_dataCrearEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:layout_marginLeft="35dp"
+            android:maxLength="10"
+            android:hint="@string/registre_textData"
+            android:inputType="date" />
+        
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/hora"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:id="@+id/text_hora"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/events_hora" />
+
+        <EditText
+            android:id="@+id/editText_horaCrearEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:layout_marginLeft="35dp"
+            android:maxLength="5"
+            android:inputType="time" />
+
+    </TableRow>
+    
+    <TableRow
+        android:id="@+id/participants"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:id="@+id/text_participants"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="@string/events_participants" />
+
+        <EditText
+            android:id="@+id/editText_participantsCrearEvent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center_vertical"
+            android:ems="2"
+            android:inputType="number"
+            android:text="1"
+            android:enabled="false"
+            android:gravity="center_horizontal" />
+        
+        <Button
+	        android:id="@+id/button_participants"
+	        android:layout_width="wrap_content"
+	        android:background="@drawable/button_black"
+        	style="@style/button_text"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="right"
+	        android:layout_marginLeft="10dp"
+	        android:drawableLeft="@android:drawable/ic_input_add"
+	        android:text="@string/afegir_participants" />
+        
+        
+
+    </TableRow>
+
+    <LinearLayout
+        android:id="@+id/zona"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="5dp" >
+
+        <TextView
+            android:id="@+id/text_zona"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/events_zona"
+            android:layout_gravity="center_vertical" />
+
+        <Spinner
+            android:id="@+id/spinner_zonaCrearEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:entries="@array/barris_bcn" />
+
+    </LinearLayout>
+
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/events_esport"
+            android:layout_gravity="center_vertical" />
+
+		<Spinner
+            android:id="@+id/spinner_esportCrearEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:entries="@array/Alternatives_esports" />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/crearEvent_button_crear"
+        android:background="@drawable/button_black"
+        style="@style/button_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/events_boto_crear" />
+   
+</LinearLayout>

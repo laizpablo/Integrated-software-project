@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/kirolari_cuidam" >
+
+	    <ImageView android:id="@+id/Cuidam_ImatgeDutxa"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:contentDescription="@string/cuidam_descripcioImatge"/>
+		    <!-- android:src="@anim/animacio_cuidam_dutxa"/>-->
+		    
+		
+		<ImageView android:id="@+id/Cuidam_ImatgeJugar"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent" 
+		    android:contentDescription="@string/cuidam_descripcioImatge"/>
+		    <!-- android:src="@anim/animacio_cuidam_jugar"/>-->
+
+		<ImageView android:id="@+id/Cuidam_ImatgeDormir"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent" 
+		    android:contentDescription="@string/cuidam_descripcioImatge"/>
+		    <!-- android:src="@anim/animacio_cuidam_jugar"/>-->
+		
+		<ImageView android:id="@+id/Cuidam_ImatgeVestir"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:contentDescription="@string/cuidam_descripcioImatge"/>
+		    <!-- android:src="@anim/animacio_cuidam_jugar"/>-->		   		    
+
+        <ImageButton
+            android:id="@+id/imageButton_cuidamJugar"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="36dp"
+            android:layout_marginLeft="30dp"    
+            android:contentDescription="@string/button_cuidamJugar"
+            android:src="@drawable/ic_jugar"
+            android:onClick="animacioCuidam" />
+
+        <ImageButton
+            android:id="@+id/imageButton_cuidamDutxa"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/imageButton_cuidamDormir"
+            android:layout_marginRight="30dp"
+            android:contentDescription="@string/button_cuidamDutxa"
+            android:src="@drawable/ic_dutxa"
+            android:onClick="animacioCuidam" />
+
+        <ImageButton
+            android:id="@+id/imageButton_cuidamVestir"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageButton_cuidamJugar"
+            android:layout_toRightOf="@+id/imageButton_cuidamJugar"
+            android:contentDescription="@string/button_cuidamVestir"
+            android:src="@drawable/ic_vestir"
+            android:onClick="animacioCuidam" />
+
+        <ImageButton
+            android:id="@+id/imageButton_cuidamDormir"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageButton_cuidamVestir"
+            android:layout_toLeftOf="@+id/imageButton_cuidamDutxa"
+            android:contentDescription="@string/button_cuidamDormir"
+            android:src="@drawable/ic_dormir"
+            android:onClick="animacioCuidam" />
+
+</RelativeLayout>

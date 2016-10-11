@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_height="fill_parent"
+	android:layout_width="fill_parent" 
+	android:background="#F7FFB4">
+	
+    <LinearLayout
+        android:id="@+id/top_half"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        <LinearLayout
+        	android:id="@+id/realitzarActivitat_layoutTemps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="top|center_horizontal"
+            android:orientation="vertical" >
+
+
+            <Chronometer
+                android:id="@+id/realitzarActivitat_temps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textSize="30sp"/>
+
+            <TextView
+                android:id="@+id/realitzarActivitat_tempsText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/realitzarActivitat_tempsText" />
+	
+	    </LinearLayout>
+	    
+        <LinearLayout
+            android:id="@+id/realitzarActivitat_layoutCaloriesDistacia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center_horizontal"
+            android:baselineAligned="false"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal" >
+            
+            <LinearLayout
+                android:id="@+id/realitzarActivitat_layoutCalories"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+	
+	            <TextView
+	                android:id="@+id/realitzarActivitat_calories"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:gravity="center_horizontal"
+	                android:text="@string/realitzarActivitat_calories"
+	                android:textSize="30sp" />
+	
+	            <TextView
+	                android:id="@+id/realitzarActivitat_caloriesText"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:gravity="center_horizontal"
+	                android:text="@string/realitzarActivitat_caloriesText" />
+		
+		    </LinearLayout>
+		    
+            <LinearLayout
+                android:id="@+id/realitzarActivitat_layoutDistancia"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+	
+	            <TextView
+	                android:id="@+id/realitzarActivitat_distancia"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:gravity="center_horizontal"
+	                android:textSize="30sp"
+	                android:text="@string/realitzarActivitat_distancia" />
+	
+	            <TextView
+	                android:id="@+id/realitzarActivitat_distanciaText"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:gravity="center_horizontal"
+	                android:text="@string/realitzarActivitat_distanciaText" />
+		
+		    </LinearLayout>
+
+            
+	    </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/realitzarActivitat_layoutButtons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal" >
+	
+	        <Button
+	            android:id="@+id/button_iniciar_activitatlliure"
+	            style="@style/button_text"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:background="@drawable/button_black"
+	            android:text="@string/realitzarActivitat_button_iniciar"/>
+	
+	        <Button
+	            android:id="@+id/button_acabar_activitatlliure"
+		        android:background="@drawable/button_black"
+		        style="@style/button_text"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="@string/realitzarActivitat_boto_Acabar"
+	            android:enabled="false"/>
+	
+	    </LinearLayout>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/bot_half"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+         android:layout_weight="1"
+         android:orientation="horizontal" >
+        
+        <fragment 
+	        android:id="@+id/map_activitat"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:scrollbars="vertical"  
+	        class="com.google.android.gms.maps.SupportMapFragment"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7ffb4"
+    android:orientation="horizontal"
+    android:baselineAligned="false" >
+
+    <LinearLayout
+        android:layout_width="274dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:gravity="left"
+        android:orientation="vertical" >
+
+		<LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_marginTop="10dp"
+	        android:layout_marginLeft="10dp" >
+	
+	        <TextView
+	            android:id="@+id/text_nom_cercarEvent"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/events_nomEvent" />
+	
+	        <EditText
+	            android:id="@+id/editText_nomEvent_cercarEvent"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:ems="10"
+	            android:inputType="text" >
+	        </EditText>
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_marginTop="10dp"
+	        android:layout_marginLeft="10dp" >
+	
+	        <CheckBox
+	            android:id="@+id/checkBox_zona_cercarEvent"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/events_zona" />
+	
+	        <Spinner
+	            android:id="@+id/spinner_barris_cercarEvent"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="right"
+	            android:layout_marginLeft="10dp"
+	            android:entries="@array/barris_bcn" />
+	
+	    </LinearLayout>
+	
+	    <LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_marginTop="10dp"
+	        android:layout_marginLeft="10dp" >
+	
+	        <CheckBox
+	            android:id="@+id/checkBox_esport_cercarEvent"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/events_esport" />
+			
+			<Spinner
+	            android:id="@+id/spinner_Esports_crearEvent"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="10dp"
+	            android:layout_gravity="right"
+	            android:entries="@array/Alternatives_esports"
+	            android:saveEnabled="true" />
+	    </LinearLayout>
+    
+		<Button
+	    	android:id="@+id/button_cercar"
+	    	android:background="@drawable/button_black"
+        	style="@style/button_text"
+	    	android:layout_marginRight="10dp"
+	    	android:layout_marginLeft="10dp"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/section_tab_buscar" />
+   
+	</LinearLayout>
+
+	<LinearLayout
+	    android:layout_width="wrap_content"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical"
+	    android:gravity="left"
+	    android:layout_marginLeft="10dp" >
+		
+		<TextView
+	       	android:id="@+id/text_eventNotFound"
+	       	android:layout_width="match_parent"
+	       	android:layout_height="wrap_content"
+			android:layout_marginTop="10dp"
+	       	android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		<ListView
+		    android:id="@+id/list_events"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:choiceMode="singleChoice" >
+		</ListView>
+
+        
+
+	</LinearLayout>
+		
+</LinearLayout>
