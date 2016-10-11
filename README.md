@@ -3,10 +3,10 @@ Integrated software project
 
 Programmers git users: 
 
-  cataliaconesa
+-  nataliaconesa
 
-  jdomenmi7
+-  jdomenmi7
 
-  aduenape7
+-  aduenape7
 
-  laizpablo
+-  laizpablo
